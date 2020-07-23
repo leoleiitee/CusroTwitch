@@ -2,7 +2,7 @@ const root = document.querySelector('#root')
 const textTitle = 'Dificuldade'
 
 const title = Title`
-    color: #82589F; 
+    color: #1abc9c; 
     font-size: 2.5rem;
     letter-spacing: 1.2px;
     margin-bottom: 4rem;

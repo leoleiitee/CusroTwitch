@@ -11,13 +11,13 @@ const css = `
         justify-content: center;
         align-items: center;
         height: 100vh;
-        background-color: #2C3A47;
+        background-color: #7f8c8d;
     }
 
     #root {
         box - sizing: border-box;
         font-family: 'Press Start 2P', cursive;
-        background-color: #3B3B98;
+        background-color: #2c3e50;
         width: 40vw;
         min-width: 768px;
         height: 65vh;
