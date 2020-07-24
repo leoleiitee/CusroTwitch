@@ -1,5 +1,11 @@
 const css = `
 <style>
+    :root {
+        --line-height: 10px;
+        --happy-color: #EAB543;
+        --action-color: #F8EFBA;
+    }
+
     * {
         margin: 0;
         padding: 0;
@@ -11,18 +17,22 @@ const css = `
         justify-content: center;
         align-items: center;
         height: 100vh;
-        background-color: #7f8c8d;
+        background-color: #2C3A47;
     }
 
     #root {
-        box - sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        box-sizing: border-box;
         font-family: 'Press Start 2P', cursive;
-        background-color: #2c3e50;
+        background-color: #3B3B98;
         width: 40vw;
         min-width: 768px;
         height: 65vh;
         text-align: center;
         padding-top: 4rem;
+        padding-bottom: 8rem;
     }
 </style>`
 
